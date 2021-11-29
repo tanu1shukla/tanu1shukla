@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @tanu1shukla
-- 
+- 👋 Hi, I’m @tanu1shukla 
 - 🌱 I’m currently learning C
 
 <!---
