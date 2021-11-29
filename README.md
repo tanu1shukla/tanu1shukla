@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tanu1shukla
-- 👀 I’m interested to learn programming.
+- 
 - 🌱 I’m currently learning C
 
 <!---
